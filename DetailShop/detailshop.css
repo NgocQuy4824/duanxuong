@@ -1,0 +1,33 @@
+.container {
+    margin: 0 auto;
+    width: 1240px;
+    background-color: aqua;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_item_1 ul li {
+    display: inline-block;
+
+}
+
+.header_item_1 ul a {
+    padding: 30px;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+.menu ul {
+    display: flex;
+    list-style-type: none;
+
+
+}
+
+.menu li a {
+    text-decoration: none;
+    padding: 10px;
+}
